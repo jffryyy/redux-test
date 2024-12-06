@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wasteredux",
+  "private_key_id": "b2de550b372540599a8809e60a68e3784dbb05c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSL+WOQK8eTd38\nFI+GIg962hpdPuHfu9UoSIbCOxngWeifxu/kiny1zTy4lmxHPaxMTIZFJJJHRSsH\n9LjqK8csXEWR2hXTQ4+VvdjGjDuhsnNWxYtuT2ItGdcc+HdmjvGFrsSSCQRp9Zeq\nGpuZa0wzmxymPHjAq4+YRIQxq6iLxsnd2CMxPnXkHZZB7gR1lRpy0daJlYYP3ChE\nIsg/poLZnXYkNm117yaN+0N1ZxkRWamXumJV4+OF31BeCmuFqc92SQY4CvAyuxc9\nChnwy24CmJvwtLraaNTHqqHKpedN0l5jPDtXzXEQYouVIPDPtnIPkLNswXw3bAD6\nrMxKr1+hAgMBAAECggEAKUzTCPQp1MUNKOKrXvpjW0ru4kKgZHOGi19Q52pwh7Zy\n8K5I5fnWTmzRER4xkYALUoS4324ztgBf17Tc/tpyTQOmgeW94yDD3nMK3NyiPQAR\nDMxNPPQpQN5yd9VUtNjCmXeBVYajEOT6k6idyXQdaYiBhSKdwZIUaaGQ7ieiOzCN\ngQDos/EWyHGlALwBwAV2PK95Jl9uczgLA/uQ63C9GkZYNHm9DiOT9USJQsjhqaEu\nceyTIGpy1ngJ2tOM12Rd0JUeZ9k18YnD0oXXwHeUBLicIDdIsAXHt40ncV1I+g2k\nz+Q3AAhK6HFVhDpktv4ksFFP5fu4YEVvsPNfV+vqjwKBgQD57FY4vn1u+WrZkrg9\nNZ47haYQLSovJlJ++lM11Ej5l/ib5WCNJYBXpwwsxb6zYhsGodKQc8e8MfaVs4Yf\noROmFW4YFcrI5hNlWOav0GCAcqGhy+LOUeisRLyXgF9f1+8HP/ZJwKQaxHFuRgqc\njdyKI8XxyDt8BgQWUX8KTuCkQwKBgQDXTDhROputvHCRmQOm8eSOeHu5XN/6EkVw\njSQ7N52T2hyjPfjIxOo4FA+SRX9qmDebjaV7Ammy9Dsam55vUc+jtWyrBVLLeG+R\nSGhuYnidincp/2DmdDG36BcFrX1/3qQyBZUbSHjYzUEKl01B+GD+kJMFAkYARc5g\nhP8dQU/ASwKBgQCk3xZaRMA2z29/rNzB9Hc4SQiuLz1e8WcGwVjXb/3cOjcVkRJK\nyuyJ5nePqbwOVrABhguEo/yl2EgVpeLbRsXRkN2aIfYu5ijxeN5mKY8f7X9XX0t2\nVG6sBoRrZZKFhcv3+mgda2pXBjTWTHp/oM5WixbwU+l5/fYASy8Fu9dSRQKBgFdD\nUnRCAAV8IlgxH9TTqGLCnMs1xKZ0L2b+HhhOY3Ug64iSvrqJbbGLGACeYJWQ2sEW\nuWLRSIw7B5WyS5YtH67oAwKSZsuHphjJs2JCUUbxb3k7REhEAj7bODGZ7wsb74tC\nzfu/9RNSpjEnwC2kAZRMfvqBwGOt54chgNGXvj5fAoGBAPk38kep+UumFnrK/QIT\nkymqRmBDkrdSzjD1x5Juuisa3h87eYI/Q13df8iRTIfDa5XzeAuR9mPNwGAPlRSb\nhdWDNZPuDvJNZBdaUEr+SVvzHLPMFW8W726NxjrsLBc09shSo9wTyGcMKHZHSS88\n62tNIxk2I9cLHoXz50Aniu7p\n-----END PRIVATE KEY-----\n",
+  "client_email": "wastereduxapp@wasteredux.iam.gserviceaccount.com",
+  "client_id": "106325237804990977539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wastereduxapp%40wasteredux.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
